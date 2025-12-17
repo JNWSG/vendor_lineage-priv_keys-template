@@ -13,3 +13,4 @@ cd vendor/lineage-priv/keys
 ```
 ./keys.sh
 ```
+# vendor_lineage-priv_keys-template
