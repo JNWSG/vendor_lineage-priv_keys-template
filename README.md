@@ -3,13 +3,26 @@ SPDX-FileCopyrightText: The LineageOS Project
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# lineage-priv-template
+# lineage-priv_keys-template
 
 # Usage
 
-1. Copy to $TOP/vendor/lineage-priv/keys
-2. cd $TOP/vendor/lineage-priv/keys
-3. ./keys.sh
+```bash
+croot && git clone https://github.com/JNWSG/vendor_lineage-priv_keys-template vendor/lineage-priv/keys
+```
+
+```bash
+cd vendor/lineage-priv/keys
+```
+
+```
+./keys.sh
+```
+
+```
+ Profit
+```
+# vendor_lineage-priv_keys-template
 4. Profit
 
 # Testing
