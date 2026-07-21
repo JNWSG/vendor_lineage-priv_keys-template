@@ -19,12 +19,6 @@ cd vendor/lineage-priv/keys
 ./keys.sh
 ```
 
-```
- Profit
-```
-# vendor_lineage-priv_keys-template
-4. Profit
-
 # Testing
 
 Included `check_keys.py` script checks whether all apk/apex/capex files in the build out are signed with keys within its directory. Be aware that some targets are **expected** to be signed with vendor key, for example `com.android.apex.cts.shim.v1_prebuilt`.
